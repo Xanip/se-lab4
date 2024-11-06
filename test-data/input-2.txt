@@ -1,0 +1,4 @@
+GT4500,1,0,1,0
+TORPEDO,SINGLE # should have fired from primary
+TORPEDO,SINGLE # should have fired from secondary
+TORPEDO,SINGLE # should not be able to fire
